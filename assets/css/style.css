@@ -1,0 +1,13 @@
+body {
+    background-image: url("../images/train-steam-engine.jpg");
+
+}
+td{
+    color: white;
+}
+label {
+    color: white;
+}
+.btn {
+    margin: 5px;
+}
